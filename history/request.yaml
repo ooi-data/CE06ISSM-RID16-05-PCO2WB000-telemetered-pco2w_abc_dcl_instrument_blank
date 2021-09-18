@@ -1,5 +1,5 @@
 data_ready: false
 data_stream: CE06ISSM-RID16-05-PCO2WB000-telemetered-pco2w_abc_dcl_instrument_blank
-last_request: '2021-08-01T01:15:06.391848Z'
+last_request: '2021-09-18T00:00:36.136914Z'
 response: https://raw.githubusercontent.com/ooi-data/CE06ISSM-RID16-05-PCO2WB000-telemetered-pco2w_abc_dcl_instrument_blank/main/history/response.json
 status: pending
